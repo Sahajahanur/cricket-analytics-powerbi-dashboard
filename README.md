@@ -7,6 +7,7 @@
 ## 📑 Table of Contents
 - [Business Problem](#-business-problem)
 - [Objective](#-objective)
+- [Live Dashboard](#-live-dashboard)
 - [Dataset](#-dataset)
 - [Tools & Tech](#-tools--tech)
 - [Workflow](#-workflow)
@@ -31,6 +32,15 @@ Design and build an end-to-end analytics pipeline that:
 - Cleans and models the data into a proper star schema
 - Applies role-specific statistical filters (batting average, strike rate, boundary %, bowling economy, strike rate, dot-ball %) to shortlist players
 - Surfaces the results in an interactive Power BI dashboard that lets a selector compare, combine, and finalize a Best XI
+
+## 🚀 Live Dashboard
+
+Explore the interactive Power BI dashboard here:
+
+**🔗 Power BI Service:**  
+https://app.powerbi.com/groups/me/reports/dd0c8abc-d855-47a3-a45d-99a14e5b7cd3/ReportSection3a8cb23b814911c94608?experience=power-bi
+
+> **Note:** The report may require Power BI access permissions.  
 
 ## 🗂 Dataset
 - **Source:** ESPNcricinfo (T20 World Cup 2022), scraped via Bright Data's Data Collector
