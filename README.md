@@ -130,7 +130,7 @@ Replaced a subjective, reputation-driven selection process with a **repeatable, 
 ## ▶️ How to Run
 1. Clone this repository
    ```bash
-   git clone https://github.com/Sahajahanur/<repo-name>.git
+   git clone https://github.com/Sahajahanur/cricket-analytics-powerbi-dashboard.git
    ```
 2. Install Python dependencies
    ```bash
